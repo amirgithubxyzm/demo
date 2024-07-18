@@ -1,4 +1,3 @@
 # demo
-this is my second repository
+this is my practice code folder
 <br>
-Author - Mohd Amir siddique
